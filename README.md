@@ -1,4 +1,4 @@
-# WIYS-APP
+# WIYS-App
 ---
 <img src ="https://github.com/5hre9a/WIYS-APP/blob/master/20200809_155437.jpg">
 WIYS stands for "what is your status "
