@@ -5,4 +5,4 @@ WIYS stands for "what is your status "
 Made this app completely from scratch.
 A beginner level project.
 ---
-[Click me](https://drive.google.com/file/d/1QND6zdN-qtRFm4Fky8ejXoKhd9hXBSPa/view?usp=drivesdk) to download the apk version of my app
+[Click me](https://drive.google.com/file/d/1QND6zdN-qtRFm4Fky8ejXoKhd9hXBSPa/view?usp=drivesdk)to download the apk version of my app
